@@ -1,2 +1,2 @@
-# HomeBakes
+# HomeBakez
 My Cake Shop
